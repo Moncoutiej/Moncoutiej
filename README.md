@@ -1,4 +1,4 @@
-<h1 align="left">Hi 🤗 , My name is Johan and I'm a Data Scientist, from 🇫🇷</h1>
+<h1 align="left">Hi 🤗 , My name is Johan and I'm a Data Scientist from 🇫🇷</h1>
 
 <p>
 I'm currently engineer specialized in Artificial Intelligence after a master degree at CY TECH.
