@@ -1,21 +1,15 @@
 <h1 align="left">Hi 🤗 , My name is Johan and I'm a Graduate Data Scientist, from 🇫🇷</h1>
 
 
-<div style="clear: both;">
-  <div style="float: right; margin-left 5em;">
-    <img width="200" height="150" src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif"/>
-  </div>
-  <div>
-    <p>After 5 years of studies in Computer Science and Mathematics at CY Tech (French Engineer School specialized in IT. Previously named EISTI), I currently have a Master’s Degree of Engineering in Artificial Intelligence.
-    Passionnate by this field and its applications in real life problems, I like to keep up-to-date with the latest discoveries in this field in order to be aware of the state-of-the-art technologies.</p>
-  </div>
-</div>
+  <p>After 5 years of studies in Computer Science and Mathematics at CY Tech (French Engineer School specialized in IT. Previously named EISTI), I currently have a Master’s Degree of Engineering in Artificial Intelligence.
+  Passionnate by this field and its applications in real life problems, I like to keep up-to-date with the latest discoveries in this field in order to be aware of the state-of-the-art technologies.</p>
 
 
 
-
+<hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Moncoutiej" height="150" alt="languages graph"  />
+  <img width="200" height="150" src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif"/>
 </div>
 
 <hr>
@@ -69,14 +63,8 @@
 <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a>
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
 
-
 </div>
 
-###
-
-
-
-###
 
 <!--
 **Moncoutiej/Moncoutiej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
