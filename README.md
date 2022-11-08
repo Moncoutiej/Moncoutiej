@@ -1,4 +1,4 @@
-<h1 align="left">Hi 🤗 , My name is Johan and I'm a Graduate Data Scientist, from 🇫🇷</h1>
+<h1 align="left">Hi 🤗 , I'm Johan, a Graduate Data Scientist from 🇫🇷</h1>
 
 
   <p>After 5 years of studies in Computer Science and Mathematics at CY Tech (French Engineer School specialized in IT. Previously named EISTI), I currently have a Master’s Degree of Engineering in Artificial Intelligence.
