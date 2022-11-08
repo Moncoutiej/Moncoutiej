@@ -11,8 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Moncoutiej" height="150" alt="languages graph"  />
   <img width="200" height="150" src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif"/>
 </div>
-
-<hr>
+<br>
 <div align="center">
   <a href="https://www.kaggle.com/johanmoncouti">
   <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=5BBBF9&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kaggle logo"  />
