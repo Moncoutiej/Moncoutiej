@@ -1,7 +1,7 @@
-<h1 align="left">Hi 🤗 , I'm Johan, a Graduate Data Scientist from 🇫🇷</h1>
+<h1 align="left">Hi 🤗 , I'm Johan, Data Scientist from 🇫🇷</h1>
 
 
-  <p>After 5 years of studies in Computer Science and Mathematics at CY Tech (French Engineer School specialized in IT. Previously named EISTI), I currently have a Master’s Degree of Engineering in Artificial Intelligence.
+  <p>After 5 years of studies in Computer Science and Mathematics at CY Tech (French Engineer School specialized in IT. Previously named EISTI), I have a Master’s Degree of Engineering in Artificial Intelligence.
   Passionnate by this field and its applications in real life problems, I like to keep up-to-date with the latest discoveries in this field in order to be aware of the state-of-the-art technologies.</p>
 
 
